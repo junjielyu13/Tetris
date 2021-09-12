@@ -169,7 +169,5 @@ class Tetris(object):
     # 判断是否结束游戏
     def __gameOver(self, grid, shapes):
         return isMove(grid, shapes)
-
-
-
-
+        # 献给未来的我
+        # “Never forget why you started, and your mission can be accomplished.” -- Your game never ends
